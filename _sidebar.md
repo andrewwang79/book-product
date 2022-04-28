@@ -52,4 +52,5 @@
 * [站点物流服务](site_logistics/SUMMARY.md)
   * [设计](site_logistics/design.md)
   * [数据库](site_logistics/db.md)
+* [持续计费系统](bill_system/SUMMARY.md)
 * [物联网](iot/SUMMARY.md)
