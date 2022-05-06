@@ -53,4 +53,5 @@
   * [设计](site_logistics/design.md)
   * [数据库](site_logistics/db.md)
 * [持续计费系统](bill_system/SUMMARY.md)
+* [数据中台](data/SUMMARY.md)
 * [物联网](iot/SUMMARY.md)
