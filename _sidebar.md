@@ -1,14 +1,4 @@
-* [介绍](README.md)
-* 产品设计
-  * [设计](prd/design/SUMMARY.md)
-      * [UX原则](prd/design/principle.md)
-      * [产品设计](prd/design/product.md)
-      * [移动端产品设计规约](prd/design/mobile_product.md)
-  * [模块](prd/module/SUMMARY.md)
-      * [帮助](prd/module/help.md)
-  * 参考
-    * [术语中英文](prd/ref/term.md)
-    * [中国行政结构](prd/ref/china.md)
+* 介绍
 * [零售](retail/README.md)
   * [系统设计](retail/design.md)
   * [商户(Seller)](retail/seller/SUMMARY.md)
